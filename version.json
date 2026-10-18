@@ -1,0 +1,8 @@
+﻿{
+  "version_code": 5,
+  "version_name": "0.5",
+  "pck_url": "https://github.com/aknsbr/sancak-updates/releases/download/v0.5/patch.pck",
+  "pck_size": 2834612,
+  "sha256": "064d98bfd172134c73f0e2494ca7aaedfcdec615acde28cbf24d799eae836fde",
+  "release_notes": "Sancak v0.5: İskeletli 3D şövalye ve barbar modelleri, 4 kanallı dinamik ses sistemi, grafik profilleri ve performans optimizasyonları."
+}
